@@ -6,4 +6,5 @@
 *.DS_Store
 *ds_control.mat
 *.zip
+*.MATLABDriveTag
 
